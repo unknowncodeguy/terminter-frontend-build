@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce1ccd26.chunk.css",
-    "main.js": "/static/js/main.95fdff8f.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.66f6e6d5.js",
-    "static/js/2.a71b32c5.chunk.js": "/static/js/2.a71b32c5.chunk.js",
-    "static/js/3.38422266.chunk.js": "/static/js/3.38422266.chunk.js",
+    "main.css": "/static/css/main.a9c21189.chunk.css",
+    "main.js": "/static/js/main.a2ce92ca.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.2607cccb.js",
+    "static/js/2.b65235bf.chunk.js": "/static/js/2.b65235bf.chunk.js",
+    "static/js/3.091fe525.chunk.js": "/static/js/3.091fe525.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.a71b32c5.chunk.js.LICENSE.txt": "/static/js/2.a71b32c5.chunk.js.LICENSE.txt",
+    "static/js/2.b65235bf.chunk.js.LICENSE.txt": "/static/js/2.b65235bf.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Vampire_Wars.ff6c9ac4.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.66f6e6d5.js",
-    "static/js/2.a71b32c5.chunk.js",
-    "static/css/main.ce1ccd26.chunk.css",
-    "static/js/main.95fdff8f.chunk.js"
+    "static/js/runtime-main.2607cccb.js",
+    "static/js/2.b65235bf.chunk.js",
+    "static/css/main.a9c21189.chunk.css",
+    "static/js/main.a2ce92ca.chunk.js"
   ]
 }
