@@ -129,7 +129,7 @@ app.use('/*', (req, res) => {
   res.sendFile(`${__dirname}/build/index.html`)
 })
 
-const port = process.env.PORT
+const port = process.env.PORT || 3030;
 
 app.listen(port, (e) => {
   console.info(`server started on port ${port}`); // eslint-disable-line no-console
